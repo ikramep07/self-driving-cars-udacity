@@ -1,0 +1,12 @@
+tensorflow
+keras
+numpy
+imgaug
+pandas
+matplotlib
+scikit-learn
+opencv-python
+flask
+eventlet
+pillow
+python-socketio
